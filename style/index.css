@@ -1,0 +1,15 @@
+#mainbutton {
+	background-image: url(../pics/mainbutton.jpg);
+    width: 1000px;
+    height: 800px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#mainbutton:hover {
+	background-image: url('../pics/mainbuttonhover.jpg');
+    width: 1000px;
+    height: 800px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
