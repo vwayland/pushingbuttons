@@ -68,10 +68,10 @@
 }
 
 #button5 {
-    width: 62px;
-    height: 62px;
-    left: 83px;
-    top: 296px;
+    width: 67px;
+    height: 64px;
+    left: 80px;
+    top: 295px;
     border-color: green;
 }
 
@@ -93,4 +93,17 @@
 
 #backbutton {
     color: purple;
+}
+
+
+.mayordescription {
+    margin: 150px 300px 150px 300px;
+}
+
+.mayordescription p {
+    font-size: 32px;
+}
+
+.mayordescription a {
+    font-size: 28px;
 }
