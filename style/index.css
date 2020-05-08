@@ -91,10 +91,37 @@
     border-color: blue;
 }
 
-#backbutton {
-    color: purple;
+#button8 {
+    width: 51px;
+    height: 51px;
+    left: 381px;
+    top: 144px;
+    border-color: lime;
 }
 
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    height: 70px;
+}
+
+#footer a {
+    color: purple;
+    font-size: 18pt;
+    position: absolute;
+    margin-left: 10px;
+}
+
+#question {
+    margin-bottom: 80px;
+}
+
+#question h1 {
+    color: purple;
+}
 
 .mayordescription {
     margin: 150px 300px 150px 300px;
