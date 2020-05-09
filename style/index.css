@@ -140,6 +140,182 @@
     color: green;
 }
 
+#statement {
+    margin-left: 15px;
+    width: 1000px;
+    height: 1000px;
+}
+
+
+#f1 {
+    left: 300px;
+    top: 0px;
+}
+
+#f2 {
+    left: 350px;
+    top: -50px;
+}
+
+#f3 {
+    left: 400px;
+    top: 0px;
+}
+
+#f4 {
+    left: 450px;
+    top: -50px;
+}
+
+#f5 {
+    left: 500px;
+    top: 0px;
+}
+
+#f6 {
+    left: 20px;
+    top: 20px;
+}
+
+#f7 {
+    left: 100px;
+    top: 50px;
+}
+
+#f8 {
+    left: 150px;
+    top: 20px;
+}
+
+#f9 {
+    left: 200px;
+    top: 0px;
+}
+
+#f10 {
+    left: 300px;
+    top: 50px;
+}
+
+#f11 {
+    left: 350px;
+    top: 0px;
+}
+
+#f12 {
+    left: 0px;
+    top: 100px;
+}
+
+#f13 {
+    left: 50px;
+    top: 100px;
+}
+
+#f14 {
+    left: 500px;
+    top: 250px;
+}
+
+#f15 {
+    left: 200px;
+    top: 100px;
+}
+
+#f16 {
+    left: 250px;
+    top: 150px;
+}
+
+#f17 {
+    left: 300px;
+    top: 100px;
+}
+
+#f18 {
+    left: 0px;
+    top: 200px;
+}
+
+#f19 {
+    left: -200px;
+    top: 150px;
+}
+
+#f20 {
+    left: 100px;
+    top: 100px;
+}
+
+#f21 {
+    left: 100px;
+    top: 150px;
+}
+
+#f22 {
+    left: 200px;
+    top: 150px;
+}
+
+#f23 {
+    left: -50px;
+    top: 250px;
+}
+
+#f24 {
+    left: 300px;
+    top: 150px;
+}
+
+#f25 {
+    left: 700px;
+    top: -50px;
+}
+
+#f26 {
+    left: 450px;
+    top: 300px;
+}
+
+#f27 {
+    left: 150px;
+    top: 250px;
+}
+
+#f28 {
+    left: -100px;
+    top: 250px;
+}
+
+#f29 {
+    left: -100px;
+    top: 400px;
+}
+
+#f30 {
+    left: 0px;
+    top: 400px;
+}
+
+#f31 {
+    left: -400px;
+    top: 350px;
+}
+
+#f32 {
+    left: 900px;
+    top: 0px;
+}
+
+#f33 {
+    left: 950px;
+    top: -50px;
+}
+
+#fracs1 {
+    height:500px;
+}
+
 .frac {
     display: inline-block;
     position: relative;
