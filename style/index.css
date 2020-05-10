@@ -1,3 +1,7 @@
+body {
+    font-family: arial;
+}
+
 #mainbutton {
 	background-image: url(../pics/mainbutton.jpg);
     width: 1000px;
@@ -333,3 +337,9 @@
 .frac span.symbol {
     display: none;
 } 
+
+#opposite {
+    background: -webkit-linear-gradient(#2196F3, #673AB7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
