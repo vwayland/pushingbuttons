@@ -1,5 +1,6 @@
 body {
     font-family: arial;
+    width:1600px;
 }
 
 #mainbutton {
@@ -60,7 +61,7 @@ body {
     height: 92px;
     left: 395px;
     top: 185px;
-    border-color: yellow;
+    border-color: #6495ed;
 }
 
 #button4 {
@@ -109,7 +110,7 @@ body {
     bottom: 0;
     width: 100%;
     background: white;
-    height: 70px;
+    height: 110px;
 }
 
 #footer a {
@@ -316,6 +317,11 @@ body {
     top: 30px;
 }
 
+#f34 {
+    left: 200px;
+    top: 30px;
+}
+
 #fracs1 {
     height:500px;
 }
@@ -345,7 +351,8 @@ body {
 }
 
 #remix {
-    height: 163px;
+    margin-left: 15px;
+    margin-top: 45px;
 }
 
 #remix h1 {
@@ -358,4 +365,29 @@ body {
     color: #6495ed;
     font-weight: normal;
     font-size: 27pt;
+}
+
+#remix a {
+    color: #6495ed;
+}
+
+#backbutton {
+    text-decoration: none; 
+    position: relative;
+}
+
+#backbutton img {
+    width: 70px;
+    float: left;
+    position: absolute;
+    top: 0px;
+}
+
+#backbutton p {
+    color: #ed8e51;
+    font-size: 25pt;
+    margin: 0;
+    left: 72px;
+    top: 14px;
+    position: absolute;
 }
